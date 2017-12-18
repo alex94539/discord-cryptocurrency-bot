@@ -1,0 +1,20 @@
+{
+  "name": "kumiko",
+  "version": "1.0.0",
+  "description": "discord cryptocurrency bot",
+  "main": "kumiko.js",
+  "scripts": {
+    "test": "node kumiko.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Euphokumiko",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security",
+    "request-promise": "^4.2.2",
+    "save": "^2.3.2"
+  }
+}
